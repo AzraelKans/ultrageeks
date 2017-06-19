@@ -1,0 +1,25 @@
+---
+layout: post
+title: Reseña Demo de Batman Arkham Asylum
+date: 2009-08-08 17:26
+author: AzraelK
+comments: true
+categories: [General, Lo mas nuevo, Playstation, Primera plana, Xbox, Xbox]
+---
+<p>Por fin llego el demo de Batman Arkham Asylum (que saldra este 20 de agosto)  es este por fin el juego de Batman que le hara justicia al murcielago? chequen la reseña para averiguarlo!</p>
+<p><img title="batman-arkham-asylum" src="http://www.theultrageeks.com/ug3/../wordpress25/wp-content/themes/mimbo2.2/images/batman-arkham-asylum.jpg" alt="batman-arkham-asylum" width="575" height="359"></p>
+<p>Como todos sabemos, el juego de Batman Dark Knight nunca salio a la luz (y estamos seguros que fue lo mejor porque para no pasar el examen de calidad debe haber apestado y con ganas) en su lugar DC y Warner le dieron el visto bueno a <em>Arkham Asylum</em>, el juego definitivo de batman segun se le ha llamado, pero verdaderamente se lleva el trofeo o el video del gatito?</p>
+<p><span></span></p>
+<p>Lo primero que debes saber y que sera desilusionante para el 95% del publico es que Arkham Asylum NO es un juego de accion, trata de hacerse pasar por uno en varios ocasiones, pero rapidamente te daras cuenta que el ataque directo solo da un resultado en la mayoria de las veces, la pantalla de “reintentar”, Batman definitivamente es un juego furtivo a la splinter cell. Lo cual es algo “raro” en el comic es practicamente imposible que batman sea derrotado por unos cuantos tipos armados gracias a su agilidad y en la pelicula la armadura detiene las balas.</p>
+<p>El segundo que sera desilusionante para el 5% restante, el juego (por lo menos el demo) utiliza los eventos script casi tanto como <em>Gears of War</em> (de hecho las escenas en las que hablas con oraculo poniendote la mano en la oreja tienen demasiado <em>deja vu</em>) , el camino a seguir es el mismo, lo unico que cambia es la forma en la que pasas del puntoA al punto B (y a veces ni eso) lo que hace que se sienta muy lineal.  Sin embargo (igual que en gears) eso ayuda mucho a que se sienta cinematografico.</p>
+<p>Para colmo el sistema de pelea aunque variado, no tiene demasiada tecnica (por lo menos al principio) tienes un ataque (que se hace combo de un boton), un contra ataque y un ataque con las puntas de la  capa (especial para fans del comic!) que te permite voltearte rapidamente para iniciar un ataque a un enemigo detras de ti.</p>
+<p>Ok, basta de quejas, aun con esos detalles los fans del comic (y la pelicula) estaran estaticos, Batman se ve impresionante en el motor de unreal 3, mucho mejor que como se vio en MK vs DC el efecto de la capa de Batman se ve perfecto a pie y se ve mucho mejor cuando te columpias o te subes a las gargolas (que debe ser tu principal medio de movimiento para evitar ser detectado) el juego utiliza elementos de ambos la pelicula Dark Knight y los comics mas recientes, se oye claramente la tonada de la cinta en ciertos eventos, el traje definitivamente esta basado en el comic, pero los guantes, las botas  y ciertos aditamentos son del filme. El sistema de radar es identico al que aparece en Dark Knight  (aunque en una version mucho mas avanzada) pero casi todos los personajes que aparecen en el juego son exclusivos del comic, incluyendo al <em>Joker</em> (ahi si me hubiera gustado que fuera la de la pelicula pero en fin) el control (aunque poco ortodoxo) es bastante bueno y los movimientos son impresionantes. el juego se ve y se siente como una aventura de Batman (del comic no de la pelicula).</p>
+<p><img title="batman-arkham-asylum-1731" src="http://www.theultrageeks.com/ug3/../wordpress25/wp-content/themes/mimbo2.2/images/batman-arkham-asylum-1731.jpg" alt="batman-arkham-asylum-1731" width="500" height="615"></p>
+<p>En resumen:</p>
+<p>Batman Arkham asylum es un muy buen juego de accion furtiva, con elementos tanto del comic como del filme, tiene suficientes detalles para desilusionar a los que esperaban la siguiente maravilla, pero aun asi se defiende muy buen en su genero, especialmente en graficas control y jugabilidad, si aun no lo has hecho bajate el demo, aunque es algo corto lo que hay es suficiente para que te sientas en las botas del murcielago gotico.</p>
+<p>Calificacion (del demo)</p>
+<p><img title="calif803" src="http://www.theultrageeks.com/wordpress25/wp-content/themes/mimbo2.2/images/calif80.gif" alt="calif903" width="120" height="80"></p>
+<p>bajatelo pero ya!</p>
+<p>p.s. Por cierto ya regrese de mis largas vacaciones de una semana <img src="http://www.theultrageeks.com/ug3/wp-includes/images/smilies/icon_wink.gif" alt=";)">  disculpen por la falta de posts durante mi ausencia <img src="http://www.theultrageeks.com/ug3/wp-includes/images/smilies/icon_smile.gif" alt=":)"> </p>
+<p>Pregunta de trivia para fans : Porque en el demo <em>Batman</em> tiene un ataque con la capa al pegar con la capa? Selecciona para ver la respuesta.</p>
+<p><span style="color:#000080">Respuesta: Porque en el comic los pesos que le dan forma a la capa tienen filo, o sea cortan, igual que los batarang, esto nunca ha aparecido en ninguna pelicula solo en el comic</span>.</p>
