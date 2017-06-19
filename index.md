@@ -35,7 +35,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-{% for post in site.posts %}	
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong> . {{ post.category }} . <a href="http://erjjones.github.com{{ post.url }}#disqus_thread"></a></small></p>			
-{% endfor %}
+
+
+<section class="archive-post-list">
+
+   {% for post in site.posts %}
+       {% assign currentDate = post.date | date: "%Y" %}
+       {% if currentDate != myDate %}
+           {% unless forloop.first %}</ul>{% endunless %}
+           <h1>{{ currentDate }}</h1>
+           <ul>
+           {% assign myDate = currentDate %}
+       {% endif %}
+       <li><a href="{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
+       {% if forloop.last %}</ul>{% endif %}
+   {% endfor %}
+
+</section>
